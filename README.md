@@ -21,13 +21,13 @@ This project is built using the following technologies:
 - **Modular JavaScript** – Uses separate files (OOP) for validation and task management.
 
 ## Photos
+
 ![overview](./images/todo-app-img-1.png)
 ![new todo](./images/todo-app-img-2.png)
 ![form validation](./images/todo-app-img-3.png)
-
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- [ADD LINK HERE]
+https://imyellingtibbers.github.io/se_project_todo-app/
